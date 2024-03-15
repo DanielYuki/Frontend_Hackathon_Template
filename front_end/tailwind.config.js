@@ -24,6 +24,16 @@ module.exports = {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
+          // color example
+          100: '#f0fff4', // very light mint
+          200: '#ccf5e8', // lighter mint
+          300: '#a7eadc', // light mint
+          400: '#82dfd0', // mint
+          500: '#5dd4c3', // default mint
+          600: '#38c9b7', // medium mint
+          700: '#2aa79b', // dark mint
+          800: '#1d857f', // darker mint
+          900: '#106362', // darkest mint
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
         },
