@@ -3,14 +3,16 @@
 
 Welcome to the Hackathon Frontend Template repository! This template is designed to kickstart your frontend development for hackathons, providing a solid foundation using modern web technologies.
 
-## Features
+## Stack
 
-- **React:** A JavaScript library for building user interfaces.
-- **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
-- **Vite:** A fast build tool that significantly improves frontend development experience.
-- **React Router:** Declarative routing for React applications.
-- **Shadcn-UI:** A pretty cool UI library.
+- **[React](https://reactjs.org/):** A JavaScript library for building user interfaces.
+- **[Tailwind CSS](https://tailwindcss.com/):** A utility-first CSS framework for rapidly building custom designs.
+- **[Vite](https://vitejs.dev/):** A fast build tool that significantly improves frontend development experience.
+- **[React Router](https://reactrouter.com/):** Declarative routing for React applications.
+- **[Shadcn-UI](https://ui.shadcn.com/):** A pretty cool UI library.
+- **[React-icons](https://react-icons.github.io/react-icons/):** A simple library that provides lots of icons.
 - ... (WIP) ...
+
 
 ## Getting Started
 
@@ -55,7 +57,3 @@ To get started with this template, follow these steps:
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request. Contributions are always welcome!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
